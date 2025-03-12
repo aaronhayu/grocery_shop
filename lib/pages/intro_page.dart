@@ -13,7 +13,7 @@ class IntroPage extends StatelessWidget {
           Padding(
             padding: const EdgeInsets.only(
                 left: 80.0, right: 80, bottom: 40, top: 160),
-            child: Image.asset('lib/images/avocado.png'),
+            child: Image.asset('lib/images/home.webp'),
           ),
 
           // We deliver groceries at your doorstep
