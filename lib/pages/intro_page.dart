@@ -28,9 +28,7 @@ class IntroPage extends StatelessWidget {
               ),
             ),
           ),
-
           const SizedBox(height: 24,),
-
           // fresh items everyday
           Text(
             "Fresh items everyday",
